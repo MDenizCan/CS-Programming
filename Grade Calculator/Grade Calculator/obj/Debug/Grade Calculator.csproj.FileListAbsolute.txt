@@ -1,0 +1,12 @@
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.AssemblyReference.cache
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.AboutBox1.resources
