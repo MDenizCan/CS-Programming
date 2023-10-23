@@ -1,0 +1,11 @@
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\bin\Debug\Lab Task 2.exe.config
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\bin\Debug\Lab Task 2.exe
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\bin\Debug\Lab Task 2.pdb
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\obj\Debug\Lab Task 2.csproj.AssemblyReference.cache
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\obj\Debug\Lab Task 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\obj\Debug\Lab_Task_2.Form1.resources
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\obj\Debug\Lab_Task_2.Properties.Resources.resources
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\obj\Debug\Lab Task 2.csproj.GenerateResource.cache
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\obj\Debug\Lab Task 2.csproj.CoreCompileInputs.cache
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\obj\Debug\Lab Task 2.exe
+C:\Users\forra\OneDrive\Masaüstü\BRO CODE CS\First Lesson\Lab Task 2\Lab Task 2\obj\Debug\Lab Task 2.pdb
