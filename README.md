@@ -1,1 +1,1 @@
-# my lab, midterm, and final assignments for my c# class
+# lab, midterm, and final assignments for my c# class
