@@ -1,0 +1,14 @@
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\bin\Debug\net8.0\csmidterm.exe
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\bin\Debug\net8.0\csmidterm.deps.json
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\bin\Debug\net8.0\csmidterm.runtimeconfig.json
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\bin\Debug\net8.0\csmidterm.dll
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\bin\Debug\net8.0\csmidterm.pdb
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\csmidterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\csmidterm.AssemblyInfoInputs.cache
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\csmidterm.AssemblyInfo.cs
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\csmidterm.csproj.CoreCompileInputs.cache
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\csmidterm.dll
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\refint\csmidterm.dll
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\csmidterm.pdb
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\csmidterm.genruntimeconfig.cache
+C:\Users\forra\APROGRAMMING\csmidterm\csmidterm\csmidterm\obj\Debug\net8.0\ref\csmidterm.dll
