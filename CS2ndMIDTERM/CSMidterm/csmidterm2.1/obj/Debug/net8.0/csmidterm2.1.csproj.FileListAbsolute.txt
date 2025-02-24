@@ -1,0 +1,28 @@
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.exe
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.deps.json
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.runtimeconfig.json
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.dll
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.pdb
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.AssemblyInfoInputs.cache
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.AssemblyInfo.cs
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.csproj.CoreCompileInputs.cache
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.dll
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\refint\csmidterm2.1.dll
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.pdb
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.genruntimeconfig.cache
+C:\Users\forra\OneDrive\Masaüstü\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\ref\csmidterm2.1.dll
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.exe
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.deps.json
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.runtimeconfig.json
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.dll
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\bin\Debug\net8.0\csmidterm2.1.pdb
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.AssemblyInfoInputs.cache
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.AssemblyInfo.cs
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.csproj.CoreCompileInputs.cache
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.dll
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\refint\csmidterm2.1.dll
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.pdb
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\csmidterm2.1.genruntimeconfig.cache
+C:\Users\forra\OneDrive\Masaüstü\githublik projeler\CS2ndMIDTERM\csmidterm2.1\csmidterm2.1\obj\Debug\net8.0\ref\csmidterm2.1.dll
